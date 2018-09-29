@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f03b930212499d08f8a52287ac0cdd24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/458c9e373165f9e896e74aeecc4b2c6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/49812ad452efea3efd4f75a395fbb12f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/92f2391f187664c26b34248b2fbc6c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/513aab3f510dadaf303e12d67789c3d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e305a85d152c3c9723c155d23bf6b083/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/178707acf2b895ce4df43b4bd2ca8d83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4a63a820bdb40be2b13e34401887cefd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/45eab489fc662685027a047ab74514d7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/08c0f55da9bfd53f0328c2b41ab4db63/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9065b7018102ec893c824a53409a25c1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/cb32d6d7446ae99b040d0010e0247c0a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/payal/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a18a994a40fad2ec68a412a5aede07e0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/payal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b6c26ac83f4fd7479fc797563fc28f53/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/139c750b71c72dce9c3633a5f3bb4b8c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2ba62ea97c4365f47f807ed91e2412eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2dbb378b805b0f5e4b1598fb488ce6a8/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a2c032d0fe4234654081a25458d3e990/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c39e729e83ee6af810336710c419edf9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/payal/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a18a994a40fad2ec68a412a5aede07e0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/payal/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a18a994a40fad2ec68a412a5aede07e0/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/payal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b6c26ac83f4fd7479fc797563fc28f53/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/payal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b6c26ac83f4fd7479fc797563fc28f53/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.propertyfinder.MainActivity
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] /home/payal/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/fe0c45bd0ae3a880312f61d524dc29ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f03b930212499d08f8a52287ac0cdd24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f03b930212499d08f8a52287ac0cdd24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/458c9e373165f9e896e74aeecc4b2c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/458c9e373165f9e896e74aeecc4b2c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/49812ad452efea3efd4f75a395fbb12f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/49812ad452efea3efd4f75a395fbb12f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/92f2391f187664c26b34248b2fbc6c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/92f2391f187664c26b34248b2fbc6c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/513aab3f510dadaf303e12d67789c3d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/513aab3f510dadaf303e12d67789c3d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e305a85d152c3c9723c155d23bf6b083/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e305a85d152c3c9723c155d23bf6b083/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/178707acf2b895ce4df43b4bd2ca8d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/payal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/178707acf2b895ce4df43b4bd2ca8d83/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4a63a820bdb40be2b13e34401887cefd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4a63a820bdb40be2b13e34401887cefd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/45eab489fc662685027a047ab74514d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/45eab489fc662685027a047ab74514d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/08c0f55da9bfd53f0328c2b41ab4db63/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/08c0f55da9bfd53f0328c2b41ab4db63/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9065b7018102ec893c824a53409a25c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9065b7018102ec893c824a53409a25c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/cb32d6d7446ae99b040d0010e0247c0a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/cb32d6d7446ae99b040d0010e0247c0a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/payal/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a18a994a40fad2ec68a412a5aede07e0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/payal/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a18a994a40fad2ec68a412a5aede07e0/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/139c750b71c72dce9c3633a5f3bb4b8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/139c750b71c72dce9c3633a5f3bb4b8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2ba62ea97c4365f47f807ed91e2412eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2ba62ea97c4365f47f807ed91e2412eb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2dbb378b805b0f5e4b1598fb488ce6a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/payal/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2dbb378b805b0f5e4b1598fb488ce6a8/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a2c032d0fe4234654081a25458d3e990/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a2c032d0fe4234654081a25458d3e990/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c39e729e83ee6af810336710c419edf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/payal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c39e729e83ee6af810336710c419edf9/AndroidManifest.xml:20:5-44
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/payal/Documents/Payal BKP/MyDocuments/my-proj-react-native-first/PropertyFinder/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
